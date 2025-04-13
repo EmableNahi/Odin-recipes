@@ -23,4 +23,4 @@ A basic recipe page built with **HTML and CSS** as part of [The Odin Project](ht
 
 ##  What's Inside?
 3 click the link to view the recipe.
-Emablenahi.github.io/odin-recipes
+https://emablenahi.github.io/Odin-recipes/
