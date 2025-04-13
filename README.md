@@ -16,3 +16,11 @@ A basic recipe page built with **HTML and CSS** as part of [The Odin Project](ht
 1. **Download the files** or clone the repo:
    ```bash
    git clone https://github.com/Emablenahi/odin-recipes.git
+   ```
+2. Open the `index.html` file in your browser.
+
+---
+
+##  What's Inside?
+3 click the link to view the recipe.
+Emablenahi.github.io/odin-recipes
